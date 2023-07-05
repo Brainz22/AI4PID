@@ -1,8 +1,8 @@
 
-Artificial Intelligence for Particle Identification - v2 2023-07-03 9:59pm
+Artificial Intelligence for Particle Identification - v3 2023-07-04 10:20pm
 ==============================
 
-This dataset was exported via roboflow.com on July 4, 2023 at 5:01 AM GMT
+This dataset was exported via roboflow.com on July 5, 2023 at 5:21 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 1015 images.
+The dataset includes 994 images.
 Alpha-particles are annotated in folder format.
 
 The following pre-processing was applied to each image:
@@ -25,6 +25,6 @@ The following pre-processing was applied to each image:
 * Resize to 640x640 (Stretch)
 
 The following augmentation was applied to create 2 versions of each source image:
-* Salt and pepper noise was applied to 10 percent of pixels
+* Salt and pepper noise was applied to 2 percent of pixels
 
 
